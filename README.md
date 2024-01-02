@@ -1,8 +1,8 @@
 <div align="center">
   <img
     width="1000" 
-    height="300"
-    src="https://github.com/jazdal/jazdal/assets/110282024/679a89b7-7240-4326-afc5-12189be5fd70" 
+    height="290"
+    src="https://github.com/jazdal/jazdal/assets/110282024/5b53f0ae-5899-4013-9c89-8b64f960d270" 
     alt="my banner">
 </div>
 <br>
