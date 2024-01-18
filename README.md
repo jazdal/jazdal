@@ -7,9 +7,9 @@
 </div>
 <br>
 
-- 👋 Hi, I’m @jazdal. I'm a tech enthusiast.
-- 👀 I’m learning about coding as a hobby.
-- 🌱 I’m currently learning: Bash and Git.
+- 👋 Hi, I’m @jazdal. I'm a medical doctor by profession, but I consider myself a tech enthusiast.
+- 👀 I’m have a strong interest in learning anything related to tech, especially programming / software development.
+- 🌱 I’m currently learning: Bash, Git, HTML, CSS, and JavaScript!
 
 <!---
 jazdal/jazdal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
