@@ -7,8 +7,8 @@
 </div>
 <br>
 
-- 👋 Hi, I’m @jazdal. I'm a medical doctor by profession, but I consider myself a tech enthusiast.
-- 👀 I’m have a strong interest in learning anything related to tech, especially programming / software development.
+- 👋 Hi, I’m @jazdal. I'm a medical doctor by profession, but I consider myself a tech enthusiast as well.
+- 👀 I have a strong interest in anything related to tech, and I have been spending time self-learning coding / software development as a hobby.
 - 🌱 I’m currently learning: Bash, Git, HTML, CSS, and JavaScript!
 
 <!---
