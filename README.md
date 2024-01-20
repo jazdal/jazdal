@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/jazdal/jazdal/assets/110282024/99927b86-27de-44a3-ba3a-979dfb953aff" alt="profile_banner">
+  <img src="https://github.com/jazdal/jazdal/assets/110282024/84c7cf67-5e5f-4e01-a5e1-440b4fc74cac" alt="profile_banner">
 </div>
 <br>
 
