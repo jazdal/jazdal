@@ -6,7 +6,7 @@
     100% {color: red;}
   }
 
-  .blink {
+  .blink-text {
     animation: blink 1s linear infinite;
   }
 </style>
@@ -17,7 +17,7 @@
 <br>
 
 - 👋 Hi, I’m `jazdal`. I'm a medical doctor by profession, but I consider myself a tech enthusiast as well.
-- 🤪 I'm a <span class="blink"><strong>FOOLSTUCK DEVELOPER</strong></span>!
+- 🤪 I'm a <span class="blink-text"><strong>FOOLSTUCK DEVELOPER</strong></span>!
 - 👀 I have a strong interest in anything related to tech, and I have been spending time self-learning coding / software development as a hobby.
 - 🌱 I’m currently learning: `Git`, `HTML`, `CSS`, and `JavaScript`!
 
