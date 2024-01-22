@@ -4,10 +4,11 @@
 <br>
 
 - 👋 Hi, I’m `jazdal`. I'm a medical doctor by profession, but I consider myself a tech enthusiast as well.
+- 🤪 I'm a `FOOLSTUCK DEVELOPER`!
 - 👀 I have a strong interest in anything related to tech, and I have been spending time self-learning coding / software development as a hobby.
 - 🌱 I’m currently learning: `Git`, `HTML`, `CSS`, and `JavaScript`!
 
-## My Tech Stacks
+## My Tech Stack
 
 <div align="left">
   <img src="https://github.com/jazdal/jazdal/assets/110282024/54026c32-9e7e-4ccf-8cd8-478ee23c4c72" alt="bash_icon" width="100" height="100">
