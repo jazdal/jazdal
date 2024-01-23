@@ -1,18 +1,21 @@
 <div align="center">
-  <img src="https://github.com/jazdal/jazdal/assets/110282024/84c7cf67-5e5f-4e01-a5e1-440b4fc74cac" alt="profile_banner">
+  <img src="profile_banner.gif" alt="profile_banner">
 </div>
 <br>
 
-- 👋 Hi, I’m `jazdal`. I'm a medical doctor by profession, but I consider myself a tech enthusiast as well.
+## About Me
+
+- 👋 Hi, I'm **`JASPER DALAWANGBAYAN`** (**`@jazdal`**). I'm a medical doctor by profession, but I consider myself a tech enthusiast as well.
 - <img src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ph.svg" alt="philippine_flag" width="22"> I am from `Manila, Philippines`.
-- 🤪 I'm a **`FOOLSTUCK DEVELOPER`**!
-- 👀 I have a strong interest in anything related to tech, and I have been spending time self-learning coding / software development as a hobby.
+- 🤪 I'm just a **`FOOLSTUCK DEVELOPER`**!
+- 👀 I have a strong interest in anything related to tech, and I love spending time self-learning coding / software development as a hobby!
 - 🌱 I’m currently learning: `Git`, `HTML`, `CSS`, and `JavaScript`!
 
 ## My Tech Stack
 
 <div align="left">
-  <img src="https://github.com/jazdal/jazdal/assets/110282024/54026c32-9e7e-4ccf-8cd8-478ee23c4c72" alt="bash_icon" width="100" height="100">
+  <img src="git_dm.svg" alt="git_icon" width="100" height="100">
+  <img src="bash.svg" alt="bash_icon" width="100" height="100">
 </div>
 
 <!---
