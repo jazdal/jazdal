@@ -7,9 +7,12 @@
 
 - 👋 Hi, I'm **`JASPER DALAWANGBAYAN`** (**`@jazdal`**). I'm a medical doctor by profession, but I consider myself a tech enthusiast as well.
 - <img src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ph.svg" alt="philippine_flag" width="22"> I am from `Manila, Philippines`.
-- 🤪 I'm just a **`FOOLSTUCK DEVELOPER`**!
 - 👀 I have a strong interest in anything related to tech, and I love spending time self-learning coding / software development as a hobby!
 - 🌱 I’m currently learning: **`HTML`**, **`CSS`**, and **`JavaScript`**!
+
+<div align="center">
+  <img src="funny_meme.gif" alt="silly_meme" width="500" height="500">
+</div>
 
 ## My Tech Stack
 
