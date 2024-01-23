@@ -14,8 +14,8 @@
 ## My Tech Stack
 
 <div align="left">
-  <img src="git.svg" alt="git_icon" width="100" height="100">
-  <img src="gnubash.svg" alt="bash_icon" width="100" height="100">
+  <img src="git-color.svg" alt="git_icon" width="100" height="100">
+  <img src="gnubash-color.svg" alt="bash_icon" width="100" height="100">
 </div>
 
 <!---
