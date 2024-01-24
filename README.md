@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile_banner.gif" alt="profile_banner">
+  <a href="https://www.linkedin.com/in/jazdal/"><img src="profile_banner.gif" alt="profile_banner"></a>
 </div>
 <br>
 
@@ -11,14 +11,14 @@
 - 🌱 I’m currently learning: **`HTML`**, **`CSS`**, and **`JavaScript`**!
 
 <div align="center">
-  <img src="funny_meme.gif" alt="silly_meme" width="500" height="500">
+  <img src="funny_meme.gif" alt="silly_meme">
 </div>
 
 ## My Tech Stack
 
 <div align="left">
-  <img src="git-color.svg" alt="git_icon" width="100" height="100">
-  <img src="gnubash-color.svg" alt="bash_icon" width="100" height="100">
+  <img src="git-color.svg" alt="git_icon" width="90" height="90">
+  <img src="gnubash-color.svg" alt="bash_icon" width="90" height="90">
 </div>
 
 <!---
