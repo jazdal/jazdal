@@ -8,7 +8,7 @@
 - 👋 Hi, I'm **`JASPER DALAWANGBAYAN`** (**`@jazdal`**). I'm a medical doctor by profession, but I consider myself a tech enthusiast as well.
 - <img src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ph.svg" alt="philippine_flag" width="22"> I am from `Manila, Philippines`.
 - 👀 I have a strong interest in anything related to tech, and I love spending time self-learning coding / software development as a hobby!
-- 🌱 I’m currently learning: **`CSS`** and **`JavaScript`**!
+- 🌱 I’m currently learning: **`HTML`**, **`CSS`** and **`JavaScript`**!
 
 ## My Tech Stack
 
