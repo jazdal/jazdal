@@ -10,10 +10,6 @@
 - 👀 I have a strong interest in anything related to tech, and I love spending time self-learning coding / software development as a hobby!
 - 🌱 I’m currently learning: **`CSS`** and **`JavaScript`**!
 
-<div align="center">
-  <img src="funny_meme.gif" alt="silly_meme">
-</div>
-
 ## My Tech Stack
 
 <div align="left">
